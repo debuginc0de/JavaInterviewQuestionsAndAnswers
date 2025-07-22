@@ -12,7 +12,6 @@ public class EncapsulationsDemo {
         cs.four();
         cs.single();
         cs.printScore();
-
     }
 
     static class CricketScore{
